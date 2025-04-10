@@ -15,7 +15,7 @@ center_text() {
 while [ $attempts -lt $MAX_ATTEMPTS ]; do
     clear
     echo -e "\n"
-    echo -e "\e[1;36m\e[1m$(center_text "🧨 Welcome to Abhi's Warzone 🧨")\e[0m"
+    echo -e "\e[1;36m\e[1m$(center_text "🧨 Welcome to Abhi's Warzone User🧨")\e[0m"
     echo ""
 
     # Prompt for username with timeout
